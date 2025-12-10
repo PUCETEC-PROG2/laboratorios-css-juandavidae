@@ -1,4 +1,10 @@
 /* Los estilos se aplican a todo el documento */
 body {
-    
+    background-image: linear-gradient(135deg, rgba(0,0,0,0.3),  rgba(209, 209, 209, 0.3) )
+        url('../assets/images/geometric-dark-background-with-gradient-shapes-composition-good-for-posters-design-illustration-vector.jpg');
+
+}
+
+.social-icon{
+    width: 32px;
 }
